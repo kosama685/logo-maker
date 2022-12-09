@@ -30,7 +30,11 @@
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "orientation": "portrait-primary",
-  "categories": ["logo", "maker", "themeisle"],
+  "categories": [
+    "logo",
+    "maker",
+    "themeisle"
+  ],
   "lang": "en",
   "screenshots": [
     {
